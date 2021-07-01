@@ -1,4 +1,4 @@
 package com.vdab.shopper.domain;
 
-public enum LpGanre {klassiek, pop, rock, dance,  rnb, hiphop
+public enum LpGanre {CLASSIC, POP, ROCK, DANCE,  RNB,HIPHOP
 }
